@@ -1,6 +1,6 @@
 .. _examples-index:
 
-Gallery of Examples
+ACTM Model Gallery
 ===================
 
 This page consists of the 'General example' gallery and a sub-gallery,
