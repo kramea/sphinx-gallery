@@ -1,2 +1,3 @@
 sphinx>=3
+matplotlib
 sphinx_gallery
