@@ -3,4 +3,5 @@ matplotlib
 plotly
 pandas
 seaborn
+statsmodels
 sphinx_gallery
